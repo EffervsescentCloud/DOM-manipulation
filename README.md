@@ -1,0 +1,1 @@
+Event listeners are the preferred way to handle events in javascript. They exist only in the JS file, so that the HTML file is clean, and multiple can be set up for one press of a button. 
